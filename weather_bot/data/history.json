@@ -1,0 +1,30 @@
+[
+  {
+    "user_id": 1184462354,
+    "user_name": "artem",
+    "city": "Москва",
+    "request_type": "weather",
+    "timestamp": "2025-05-20T16:04:44.337703"
+  },
+  {
+    "user_id": 1184462354,
+    "user_name": "artem",
+    "city": "Москва",
+    "request_type": "forecast",
+    "timestamp": "2025-05-20T16:07:55.768398"
+  },
+  {
+    "user_id": 1184462354,
+    "user_name": "artem",
+    "city": "гк",
+    "request_type": "weather",
+    "timestamp": "2025-05-20T16:14:31.680503"
+  },
+  {
+    "user_id": 1184462354,
+    "user_name": "artem",
+    "city": "ыыы",
+    "request_type": "weather",
+    "timestamp": "2025-05-20T16:14:45.714560"
+  }
+]
